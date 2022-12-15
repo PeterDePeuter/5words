@@ -161,6 +161,8 @@ def find(wordlist):
 
 find(allwords)
 
+
+
 sys.exit()
 solved = {}
 x=0
